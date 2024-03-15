@@ -6,6 +6,6 @@
         <title>Exmeplo JSP</title>
     </head>
     <body>
-        <h1>Olá Mundo!!!</h1>
+        <h1>Saudacao ${msg}</h1>
     </body>
 </html>
